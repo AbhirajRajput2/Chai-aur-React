@@ -1,0 +1,10 @@
+//1st
+1.npm i "all library"
+2.create account.
+3.create .env file for hiding all private data from user / add it into gitignore.
+4. create all environment variable: url,projectid,databaseid,collectionid,bucketid
+5.Create a project in appwrite inside it create database then create title,attribute all.
+6.set all id of this into your code
+7. create a "config" file and export all .env varibale from there to prevent any error.
+ 
+//2nd
